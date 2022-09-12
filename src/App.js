@@ -41,6 +41,8 @@ function App() {
                 <h2>MCIT Notice Board</h2>
               </div>
               <div class="col-sm-6">
+                <a href="https://school-18507.web.app/social.html" class="btn btn-primary" data-toggle="modal"><i
+                  class="material-icons">&#xE147;</i> <span>Back to Campus</span></a>
                 <a href="#addEmployeeModal" class="btn btn-success" data-toggle="modal"><i
                   class="material-icons">&#xE147;</i> <span>Add New Notice</span></a>
               </div>
